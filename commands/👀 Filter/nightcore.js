@@ -37,7 +37,7 @@ const { handlemsg } = require(`../../handlers/functions`);
             return Obj;
           }),
         timescale: {
-              "speed": 1.165,
+              "speed": 1.175,
               "pitch": 1.125,
               "rate": 1.05
           },
