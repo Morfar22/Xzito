@@ -283,14 +283,14 @@ module.exports = async (client) => {
 
     if(!name || name.length < 1) name = `${client.user.username} | By: Tomato#6966`;
     if(!iconURL || iconURL.length < 1) iconURL = `${client.user.displayAvatarURL()}`;
-    if(!url || url.length < 1) url = `https://discord.gg/milrato`;
+    if(!url || url.length < 1) url = `https://discord.gg/ZzECHdj2Jf`;
 
     //Change the lengths
     iconURL = iconURL.trim();
     name = name.trim().substring(0, 2048);
     
     //verify the iconURL
-    if(!url.startsWith("https://") && !url.startsWith("http://")) url = `https://discord.gg/milrato`;
+    if(!url.startsWith("https://") && !url.startsWith("http://")) url = `https://discord.gg/ZzECHdj2Jf`;
     if(!iconURL.startsWith("https://") && !iconURL.startsWith("http://")) iconURL = client.user.displayAvatarURL();
     if(![".png", ".jpg", ".wpeg", ".webm", ".gif"].some(d => iconURL.toLowerCase().endsWith(d))) iconURL = client.user.displayAvatarURL();
     //return the footerobject

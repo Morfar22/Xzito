@@ -29,7 +29,7 @@ module.exports = {
           .setColor(es.wrongcolor)
           .setFooter(client.getFooter(es))
           .setTitle("Only Tomato is allowed to deploy the SLASH-COMMANDS")
-          .setDescription(`Go to the [Discord-Server](https://discord.gg/milrato), open a Ticket and ask for it!`)
+          .setDescription(`Go to the [Discord-Server](https://discord.gg/ZzECHdj2Jf), open a Ticket and ask for it!`)
         ]
       });
     try {
@@ -71,7 +71,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
  * @INFO
  * Work for Milrato Development | 
  * @INFO

@@ -16,7 +16,7 @@ module.exports = {
     const { guild } = member;    
     try{
       let tempmsg = await interaction?.reply({embeds: [new Discord.MessageEmbed().setColor(es.color)
-      .setAuthor(client.getAuthor(client.la[ls].cmds.info.botinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://discord.gg/milrato"))], ephemeral: true})
+      .setAuthor(client.getAuthor(client.la[ls].cmds.info.botinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://discord.gg/ZzECHdj2Jf"))], ephemeral: true})
       cpuStat.usagePercent(function (e, percent, seconds) {
           if (e) {
               return console.error(e);
@@ -54,7 +54,7 @@ module.exports = {
 };
 /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+  * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
   * @INFO
   * Work for Milrato Development | 
   * @INFO

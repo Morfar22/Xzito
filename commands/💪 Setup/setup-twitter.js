@@ -80,7 +80,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Twitter Setup', 'https://cdn.discordapp.com/emojis/840255600851812393.png?size=96', 'https://discord.gg/milrato')
+          .setAuthor('Twitter Setup', 'https://cdn.discordapp.com/emojis/840255600851812393.png?size=96', 'https://discord.gg/ZzECHdj2Jf')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({
@@ -451,7 +451,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://github?.com/MilratoDev/discord-js-lavalink-Music-Bot-erela-js
+ * Bot coded by Morfar#0001 | https://github?.com/MilratoDev/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
  * Work for Milrato Development | 
  * @INFO

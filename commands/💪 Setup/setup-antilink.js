@@ -94,7 +94,7 @@ module.exports = {
           .setColor(es.color)
           .setAuthor("Anti-Links System Setup", 
           "https://cdn.discordapp.com/emojis/858405056238714930.gif?v=1",
-          "https://discord.gg/milrato")
+          "https://discord.gg/ZzECHdj2Jf")
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-antilink"]["variable1"]))
         let used1 = false;
         //send the menu msg
@@ -434,7 +434,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
  * @INFO
  * Work for Milrato Development | 
  * @INFO

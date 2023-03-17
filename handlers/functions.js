@@ -233,7 +233,7 @@ async function GetUser(message, arg){
     }
     /**
      * @INFO
-     * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+     * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
      * @INFO
      * Work for Milrato Development | 
      * @INFO
@@ -480,7 +480,7 @@ async function edit_Roster_msg(client, guild, the_roster_db, pre) {
         }
         /**
          * @INFO
-         * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+         * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
          * @INFO
          * Work for Milrato Development | 
          * @INFO
@@ -1420,7 +1420,7 @@ async function swap_pages(client, message, description, TITLE) {
   let cmduser = message.author;
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
  * @INFO
  * Work for Milrato Development | 
  * @INFO
@@ -1827,7 +1827,7 @@ async function databasing(client, guildid, userid) {
         })
         /**
          * @INFO
-         * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+         * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
          * @INFO
          * Work for Milrato Development | 
          * @INFO
@@ -1944,7 +1944,7 @@ async function databasing(client, guildid, userid) {
 
   /**
    * @INFO
-   * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+   * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
    * @INFO
    * Work for Milrato Development | 
    * @INFO
@@ -2400,7 +2400,7 @@ async function create_transcript(message, client, msglimit) {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
  * @INFO
  * Work for Milrato Development | 
  * @INFO
@@ -2869,7 +2869,7 @@ const channelInfo = (url, options = {}) => __awaiter(void 0, void 0, void 0, fun
     }
     /**
      * @INFO
-     * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+     * Bot coded by Morfar#0001 | https://discord.gg/ZzECHdj2Jf
      * @INFO
      * Work for Milrato Development | 
      * @INFO
