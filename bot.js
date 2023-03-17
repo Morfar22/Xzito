@@ -12,7 +12,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: Morfar#0001 | https://milrato.eu
+ *   BOT CODED BY: Morfar#0001 | 
  *********************************************************/
 
 
@@ -197,7 +197,7 @@ client.login(config.token);
   * @INFO
   * Bot Coded by Tomato#6966 | https://discord.gg/milrato
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for Milrato Development | 
   * @INFO
   * Please mention him / Milrato Development, when using this Code!
   * @INFO

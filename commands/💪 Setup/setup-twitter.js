@@ -453,7 +453,7 @@ module.exports = {
  * @INFO
  * Bot Coded by Tomato#6966 | https://github?.com/MilratoDev/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Milrato Development | 
  * @INFO
  * Please mention him / Milrato Development, when using this Code!
  * @INFO

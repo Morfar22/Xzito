@@ -16,7 +16,7 @@
                     {
                         "value": "Ersteller / Funktionen",
                         "description": "Wer ist mein Macher? / Was sind meine Funktionen?",
-                        "replymsg": "<:Milrato:840259659163893820> **__Milrato Development__ hat mich gemacht!**\n> <:Like:857334024087011378> **Ihre Internet Seite:** https://milrato.eu\n> <:DiscordLogo:936723374644789370> **Ihr Discord:** https://discord.gg/milrato\n``` ```***__Du kannst ihrem Discord Server beitreten und einen kostenlosen, bzw. günstigen Discord Bot deiner Wahl erhalten, wie mich!__***\n``` ```:muscle: **__Meine Funktionen__**\n>>> **68+ Systeme**, wie z.B: Automatischer <:twitter:840255600851812393> **Twitter-** & <:Youtube:840260133686870036> **Youtube** Upload Poster \n**Bewerbungs-**, Ticket-, **Willkommens-Bilder-** und Reaction Role-, ... Systeme\n:notes: Ein komplexes <:Spotify:846090652231663647> **Music System** mit **Audio Filter**\n:video_game: Viele **Minigames** und :joystick: **Fun** Befehle (150+)\n:no_entry_sign: **Administration** und **Auto-Moderation** und viel mehr!\n\n**Der Programmiere ist: `Tomato#6966` <:TOMATO:858450817665204224>, Wenn du ihn anheuern willst, dann kontaktiere ihn!**",
+                        "replymsg": "<:Milrato:840259659163893820> **__Milrato Development__ hat mich gemacht!**\n> <:Like:857334024087011378> **Ihre Internet Seite:** \n> <:DiscordLogo:936723374644789370> **Ihr Discord:** https://discord.gg/milrato\n``` ```***__Du kannst ihrem Discord Server beitreten und einen kostenlosen, bzw. günstigen Discord Bot deiner Wahl erhalten, wie mich!__***\n``` ```:muscle: **__Meine Funktionen__**\n>>> **68+ Systeme**, wie z.B: Automatischer <:twitter:840255600851812393> **Twitter-** & <:Youtube:840260133686870036> **Youtube** Upload Poster \n**Bewerbungs-**, Ticket-, **Willkommens-Bilder-** und Reaction Role-, ... Systeme\n:notes: Ein komplexes <:Spotify:846090652231663647> **Music System** mit **Audio Filter**\n:video_game: Viele **Minigames** und :joystick: **Fun** Befehle (150+)\n:no_entry_sign: **Administration** und **Auto-Moderation** und viel mehr!\n\n**Der Programmiere ist: `Tomato#6966` <:TOMATO:858450817665204224>, Wenn du ihn anheuern willst, dann kontaktiere ihn!**",
                         "emoji": "840259659163893820"
                     },
                     {
@@ -76,7 +76,7 @@
                 },
                 "field5": {
                     "title": "<:arrow:832598861813776394> Wichtige Links",
-                    "value": "**[Einladungs-Link]({invitelink})・[Support Server](https://discord.gg/milrato)・[Internet Seite](https://milrato.eu)**\n**[Bekomme Gratis Bots](https://discord.gg/milrato)・[Lade Public Version ein](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
+                    "value": "**[Einladungs-Link]({invitelink})・[Support Server](https://discord.gg/milrato)・[Internet Seite]()**\n**[Bekomme Gratis Bots](https://discord.gg/milrato)・[Lade Public Version ein](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
                 },
                 "variable1": "`\\`\\`\\`yml\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -213,7 +213,7 @@
                 "variable24": "`🦾 **Custom Commands [${cuc[0].includes(\"NO\") ? 0 : items.length}]**`",
                 "variable25": "\"<:Milrato:840259659163893820> Bot Creator Company Advertisment\"",
                 "variablex_26": "`<:Milrato:840259659163893820> **__Bot Creator Information__**`",
-                "variable26": "`>>> 💯 This Bot has been made by:\\n[**Milrato Development**](https://milrato.eu)・[Discord](https://discord.com/invite/milrato)<:DiscordLogo:936723374644789370> [Click here to order yourself a own one](https://discord.com/invite/milrato)`",
+                "variable26": "`>>> 💯 This Bot has been made by:\\n[**Milrato Development**]()・[Discord](https://discord.com/invite/milrato)<:DiscordLogo:936723374644789370> [Click here to order yourself a own one](https://discord.com/invite/milrato)`",
                 "variable27": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "invite": {
@@ -388,7 +388,7 @@
             },
             "support": {
                 "title": ":tickets: Du brauchst Hilfe? **TRETE DEM SUPPORT SERVER BEI**",
-                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot)  •  [WEBSITE](https://milrato.eu)  •  [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
+                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot)  •  [WEBSITE]()  •  [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
                 "variable2": "{text: \"Clan Bot | powered by milrato.eu\", iconURL: \"https://imgur.com/jPItIw0.gif\"}",
                 "variable3": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
@@ -4912,7 +4912,7 @@
         "cooldown": "<:no:833101993668771842> Please wait {time} more second(s) before reusing the `{commandname}` command.",
         "premium": {
             "title": "<:no:833101993668771842> **This Command is Premium Only!** <a:nitro:833402717506502707>",
-            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website](https://milrato.eu) - [Pay through here](https://discord.gg/milrato)"
+            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website]() - [Pay through here](https://discord.gg/milrato)"
         },
         "permissions": {
             "title": "<:no:833101993668771842> **Du bist nicht berechtigt diesen Befehl auszuführen!!**",

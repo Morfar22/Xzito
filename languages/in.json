@@ -16,7 +16,7 @@
                     {
                         "value": "निर्माता / विशेषताएं",
                         "description": "मेरा निर्माता कौन है? / मेरी विशेषताएं क्या हैं?",
-                        "replymsg": " **__Milrato Development__ ने मुझे बनाया।**\n>  **उनकी वेबसाइट:** https://milrato.eu\n>  **उनका Discord Server:** https://discord.gg/milrato\n``` ```***__आप उनके Discord Server में आ सकते हैं और खुद के लिये मेरे जैसा बॉट प्राप्त कर सकते हैं, मुफ़्त/सस्ते में।__***\n``` ```:muscle: **__मेरी विशेषताएं__**\n>>> **58+ सिस्टम**, जैसे की:  **Twitter-** &  **YouTube-ऑटो-पोस्टर** \n**आवेदन-**, टिकट-, **स्वागत-छवियां-** और प्रतिक्रिया भूमिका-, ... सिस्टम\n:notes: एक उन्नत  **संगीत सयंत्र** **Audio Filtering** के साथ\n:video_game: बहुत से **MiniGames** और :joystick: **मनोरंजक** कमान्ड्स (150+)\n:no_entry_sign: **प्रशासन** तथा **Auto-Moderation** और भी बहुत कुछ!\n\n**निर्माता है: `Tomato#6966` , अगर आप उन्हे काम पर रखना चाहते हैं तो कृपया उनसे संपर्क करें!**",
+                        "replymsg": " **__Milrato Development__ ने मुझे बनाया।**\n>  **उनकी वेबसाइट:** \n>  **उनका Discord Server:** https://discord.gg/milrato\n``` ```***__आप उनके Discord Server में आ सकते हैं और खुद के लिये मेरे जैसा बॉट प्राप्त कर सकते हैं, मुफ़्त/सस्ते में।__***\n``` ```:muscle: **__मेरी विशेषताएं__**\n>>> **58+ सिस्टम**, जैसे की:  **Twitter-** &  **YouTube-ऑटो-पोस्टर** \n**आवेदन-**, टिकट-, **स्वागत-छवियां-** और प्रतिक्रिया भूमिका-, ... सिस्टम\n:notes: एक उन्नत  **संगीत सयंत्र** **Audio Filtering** के साथ\n:video_game: बहुत से **MiniGames** और :joystick: **मनोरंजक** कमान्ड्स (150+)\n:no_entry_sign: **प्रशासन** तथा **Auto-Moderation** और भी बहुत कुछ!\n\n**निर्माता है: `Tomato#6966` , अगर आप उन्हे काम पर रखना चाहते हैं तो कृपया उनसे संपर्क करें!**",
                         "emoji": "840259659163893820"
                     },
                     {
@@ -76,7 +76,7 @@
                 },
                 "field5": {
                     "title": " महत्वपूर्ण लिंक",
-                    "value": "**[आमंत्रित लिंक]({invitelink})・[समर्थन सर्वर](https://discord.gg/milrato)・[वेबसाइट](https://milrato.eu)**\n**[मुफ्त बॉट्स प्राप्त करें](https://discord.gg/milrato)・[सार्वजनिक संस्करण को आमंत्रित करें](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
+                    "value": "**[आमंत्रित लिंक]({invitelink})・[समर्थन सर्वर](https://discord.gg/milrato)・[वेबसाइट]()**\n**[मुफ्त बॉट्स प्राप्त करें](https://discord.gg/milrato)・[सार्वजनिक संस्करण को आमंत्रित करें](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
                 },
                 "variable1": "`\\`\\`\\`yml\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -213,7 +213,7 @@
                 "variable24": "`🦾 **Custom Commands [${cuc[0].includes(\"NO\") ? 0 : items.length}]**`",
                 "variable25": "\" Bot Creator Company Advertisment\"",
                 "variablex_26": "` **__Bot Creator Information__**`",
-                "variable26": "`>>> 💯 This Bot has been made by:\\n[**Milrato Development**](https://milrato.eu)・[Discord](https://discord.com/invite/milrato) [Click here to order yourself a own one](https://discord.com/invite/milrato)`",
+                "variable26": "`>>> 💯 This Bot has been made by:\\n[**Milrato Development**]()・[Discord](https://discord.com/invite/milrato) [Click here to order yourself a own one](https://discord.com/invite/milrato)`",
                 "variable27": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "invite": {
@@ -389,7 +389,7 @@
             },
             "support": {
                 "title": ":tickets: आपको मदद की ज़रूरत है? **हमारे समर्थन सर्वर मैं आये**",
-                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot) • [WEBSITE](https://milrato.eu) • [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
+                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot) • [WEBSITE]() • [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
                 "variable2": "{text: \"Clan Bot | powered by milrato.eu\", iconURL: \"https://imgur.com/jPItIw0.gif\"}",
                 "variable3": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
@@ -4902,7 +4902,7 @@
         "cooldown": " Please wait {time} more second(s) before reusing the `{commandname}` command.",
         "premium": {
             "title": " **This Command is Premium Only!**",
-            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website](https://milrato.eu) - [Pay through here](https://discord.gg/milrato)"
+            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website]() - [Pay through here](https://discord.gg/milrato)"
         },
         "permissions": {
             "title": " **You are not allowed to run this command!**",

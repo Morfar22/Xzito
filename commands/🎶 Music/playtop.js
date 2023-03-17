@@ -43,7 +43,7 @@ const { handlemsg } = require(`../../handlers/functions`);
  * @INFO
  * Bot Coded by Tomato#6966 | https://github?.com/Morfar#0001/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Milrato Development | 
  * @INFO
  * Please mention Him / Milrato Development, when using this Code!
  * @INFO

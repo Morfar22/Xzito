@@ -25,7 +25,7 @@ module.exports = {
 				.setTimestamp()
 				.setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
 				.setTitle(client.la[ls].cmds.info.developer.title)
-				.setURL("https://milrato.eu")
+				.setURL("")
 				.setDescription(client.la[ls].cmds.info.developer.description)],
 components: allbuttons
 			}).catch(error => console.log(error));
@@ -44,7 +44,7 @@ components: allbuttons
  * @INFO
  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Milrato Development | 
  * @INFO
  * Please mention him / Milrato Development, when using this Code!
  * @INFO

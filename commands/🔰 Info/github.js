@@ -25,7 +25,7 @@ module.exports = {
 			.setTimestamp()
 			.setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
 			.setTitle(client.la[ls].cmds.info.github?.title)
-			.setURL("https://milrato.eu")
+			.setURL("")
 			.addField("🆕 NEW GITHUB", `> There is now an **open Source** Version of this Bot on [\`Tomato#6966\`'s Github](https://github.com/Morfar#0001)\n> [Link](https://github.com/Morfar#0001/Multipurpose-discord-bot) but please make sure to **give __Credits__** if you use it!\n> Make sure to read the [README](https://github.com/Morfar#0001/Multipurpose-discord-bot#readme) and the [WIKI / FAQ](https://github.com/Morfar#0001/Multipurpose-discord-bot/wiki) carefully before opening an [ISSUE](https://github.com/Morfar#0001/Multipurpose-discord-bot/issues/new/choose)`)
 			.setDescription(client.la[ls].cmds.info.github?.description)],
 			components: allbuttons
@@ -36,7 +36,7 @@ module.exports = {
  * @INFO
  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Milrato Development | 
  * @INFO
  * Please mention him / Milrato Development, when using this Code!
  * @INFO

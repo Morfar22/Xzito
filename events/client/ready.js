@@ -87,7 +87,7 @@ async function change_status(client){
   * @INFO
   * Bot Coded by Tomato#6966 | https://discord.gg/dcdev
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for Milrato Development | 
   * @INFO
   * Please mention him / Milrato Development, when using this Code!
   * @INFO

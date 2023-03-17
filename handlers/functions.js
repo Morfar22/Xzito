@@ -235,7 +235,7 @@ async function GetUser(message, arg){
      * @INFO
      * Bot Coded by Tomato#6966 | https://discord.gg/milrato
      * @INFO
-     * Work for Milrato Development | https://milrato.eu
+     * Work for Milrato Development | 
      * @INFO
      * Please mention him / Milrato Development, when using this Code!
      * @INFO
@@ -482,7 +482,7 @@ async function edit_Roster_msg(client, guild, the_roster_db, pre) {
          * @INFO
          * Bot Coded by Tomato#6966 | https://discord.gg/milrato
          * @INFO
-         * Work for Milrato Development | https://milrato.eu
+         * Work for Milrato Development | 
          * @INFO
          * Please mention him / Milrato Development, when using this Code!
          * @INFO
@@ -1422,7 +1422,7 @@ async function swap_pages(client, message, description, TITLE) {
  * @INFO
  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Milrato Development | 
  * @INFO
  * Please mention him / Milrato Development, when using this Code!
  * @INFO
@@ -1829,7 +1829,7 @@ async function databasing(client, guildid, userid) {
          * @INFO
          * Bot Coded by Tomato#6966 | https://discord.gg/milrato
          * @INFO
-         * Work for Milrato Development | https://milrato.eu
+         * Work for Milrato Development | 
          * @INFO
          * Please mention him / Milrato Development, when using this Code!
          * @INFO
@@ -1946,7 +1946,7 @@ async function databasing(client, guildid, userid) {
    * @INFO
    * Bot Coded by Tomato#6966 | https://discord.gg/milrato
    * @INFO
-   * Work for Milrato Development | https://milrato.eu
+   * Work for Milrato Development | 
    * @INFO
    * Please mention him / Milrato Development, when using this Code!
    * @INFO
@@ -2402,7 +2402,7 @@ async function create_transcript(message, client, msglimit) {
  * @INFO
  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Milrato Development | 
  * @INFO
  * Please mention him / Milrato Development, when using this Code!
  * @INFO
@@ -2871,7 +2871,7 @@ const channelInfo = (url, options = {}) => __awaiter(void 0, void 0, void 0, fun
      * @INFO
      * Bot Coded by Tomato#6966 | https://discord.gg/milrato
      * @INFO
-     * Work for Milrato Development | https://milrato.eu
+     * Work for Milrato Development | 
      * @INFO
      * Please mention him / Milrato Development, when using this Code!
      * @INFO
