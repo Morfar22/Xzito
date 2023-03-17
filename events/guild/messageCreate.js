@@ -366,7 +366,7 @@ module.exports = async (client, message) => {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/dcdev
+ * Bot coded by Morfar#0001 | https://discord.gg/dcdev
  * @INFO
  * Work for Milrato Development | 
  * @INFO

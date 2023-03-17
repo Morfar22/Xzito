@@ -155,7 +155,7 @@ async function playlist(client, message, args, type, slashCommand = false) {
 module.exports = playlist;
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://github?.com/Morfar#0001/discord-js-lavalink-Music-Bot-erela-js
+ * Bot coded by Morfar#0001 | https://github?.com/Morfar#0001/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
  * Work for Milrato Development | 
  * @INFO

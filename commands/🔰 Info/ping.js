@@ -6,7 +6,7 @@ var ee = require(`../../botconfig/embed.json`);
 const emoji = require(`../../botconfig/emojis.json`);
 const { handlemsg, getRandomNum } = require(`../../handlers/functions`);
 var cp = require('child_process');
-const dash = `\n❯ Dashboard: www.milrato.com`
+const dash = `\n❯ `
 module.exports = {
   name: "ping",
   category: "🔰 Info",

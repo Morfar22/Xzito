@@ -7,7 +7,7 @@ const emoji = require(`../../botconfig/emojis.json`);
 const {
   duration, handlemsg
 } = require(`../../handlers/functions`)
-const dash = `\n❯ Dashboard: www.milrato.com`
+const dash = `\n❯ `
 module.exports = {
   name: "help",
   category: "🔰 Info",

@@ -5,7 +5,7 @@ const config = require(`../../botconfig/config.json`);
 var ee = require(`../../botconfig/embed.json`);
 const emoji = require(`../../botconfig/emojis.json`);
 const { handlemsg } = require(`../../handlers/functions`)
-const dash = `\n❯ Dashboard: www.milrato.com`
+const dash = `\n❯ `
 module.exports = {
   name: "invite",
   category: "🔰 Info",

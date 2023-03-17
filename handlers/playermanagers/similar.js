@@ -184,7 +184,7 @@ async function similar(client, message, args, type, slashCommand) {
 module.exports = similar;
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://github?.com/Morfar#0001/discord-js-lavalink-Music-Bot-erela-js
+ * Bot coded by Morfar#0001 | https://github?.com/Morfar#0001/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
  * Work for Milrato Development | 
  * @INFO

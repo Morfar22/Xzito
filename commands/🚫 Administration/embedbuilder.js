@@ -261,7 +261,7 @@ let embedEditing = async(button) => {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://github?.com/Morfar#0001/Discord-Js-Handler-Template
+ * Bot coded by Morfar#0001 | https://github?.com/Morfar#0001/Discord-Js-Handler-Template
  * @INFO
  * Work for Milrato Development | 
  * @INFO

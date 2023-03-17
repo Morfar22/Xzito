@@ -404,7 +404,7 @@ async function send_log(c, guild, color, title, description, thumb, fieldt, fiel
       .setTitle(title ? title.substring(0, 256) : "\u200b")
       .setTimestamp()
       .setThumbnail(thumb ? thumb : icon)
-      .setFooter(c.getFooter(guild?.name + "\n❯ Dashboard: www.milrato.com", icon))
+      .setFooter(c.getFooter(guild?.name + "\n❯ ", icon))
     if(fieldt && fieldv){
       if(fieldv.trim() !== ">>>") {
         LogEmbed.addField(fieldt.substring(0, 256), fieldv.substring(0, 1024))
