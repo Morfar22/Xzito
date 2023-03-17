@@ -52,7 +52,7 @@ module.exports = {
             {
               value: "setup-antilink",
               description: `Setup a Anit-LINK System to prevent LINKS`,
-              emoji: "🔗"
+              emoji: "📑"
             },
             {
               value: "setup-antinuke",
@@ -202,7 +202,7 @@ module.exports = {
             {
               value: "setup-validcode",
               description: `Setup the Valid-Code System`,
-              emoji: "📨"
+              emoji: "📑"
             },
             {
               value: "setup-warn",
