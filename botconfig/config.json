@@ -16,10 +16,9 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "node1.kartadharta.xyz",
-                "port": 443,
-                "password": "kdlavalink",
-                "secure": true
+                "host": "localhost",
+                "port": 2333,
+                "password": "youshallnotpass"
             }
         ]
     },
