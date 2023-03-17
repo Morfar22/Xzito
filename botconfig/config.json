@@ -1,0 +1,49 @@
+{
+    "token": "MTAzNjM4ODA1NDYxMDQ3NzExNg.GWWcLj.HOk92HPIHboOQV2nPV5FWN8z-Cg6ai299uGIAM",
+    "prefix": "!",
+    "ownerIDS": [
+        "814032394935992350"
+    ],
+    "fnbr": "GET from: https://fnbr.co",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "type": "PLAYING",
+        "url": "https://twitch.tv/milratodiscordbot",
+        "text2": "By: Morfar#0001"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "node1.kartadharta.xyz",
+                "port": 443,
+                "password": "kdlavalink",
+                "secure": true
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "83526b564f1f422a82a4c2b31f6ec93d",
+        "clientID": "f288cfcad520499584a479bfd9a3b8f1"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
