@@ -122,97 +122,97 @@ module.exports = {
           {
             label: "Overview",
             value: "Overview",
-            emoji: "833101995723194437",
+            emoji: "📑",
             description: "My Overview of me!"
           },
           {
             label: "Information",
             value: "Information",
-            emoji: "🔰",
+            emoji: "📑",
             description: "Commands to share Information"
           },
           {
             label: "Economy",
             value: "Economy",
-            emoji: "💸",
+            emoji: "📑",
             description: "Commands to use the Economy System"
           },
           {
             label: "School",
             value: "School",
-            emoji: "🏫",
+            emoji: "📑",
             description: "Commands useful for School and work!"
           },
           {
             label: "Music",
             value: "Music",
-            emoji: "🎶",
+            emoji: "📑",
             description: "Commands to play Music / add Filter"
           },
           {
             label: "Filter",
             value: "Filter",
-            emoji: "👀",
+            emoji: "📑",
             description: "Commands to add Filters to the Music"
           },
           {
             label: "Customqueue",
             value: "Customqueue",
-            emoji: "⚜️",
+            emoji: "📑",
             description: "Commands to Save Queues and Manage them"
           },
           {
             label: "Admin",
             value: "Admin",
-            emoji: "🚫",
+            emoji: "📑",
             description: "Commands to Administrate the Server"
           },
           {
             label: "Setup",
             value: "Setup",
-            emoji: "💪",
+            emoji: "📑",
             description: "Commands to Setup Systems"
           },
           {
             label: "Settings",
             value: "Settings",
-            emoji: "⚙️",
+            emoji: "📑",
             description: "Commands to change Server Settings"
           },
           {
             label: "Owner",
             value: "Owner",
-            emoji: "👑",
+            emoji: "📑",
             description: "Commands to to manage the Bot"
           },
           {
             label: "Programming",
             value: "Programming",
-            emoji: "⌨️",
+            emoji: "📑",
             description: "Commands useful for Programming"
           },
           {
             label: "Ranking",
             value: "Ranking",
-            emoji: "📈",
+            emoji: "📑",
             description: "Commands to mange and show Ranks"
           },
           {
             label: "Soundboard",
             value: "Soundboard",
-            emoji: "🔊",
+            emoji: "📑",
             description: "Commands for Voice Soundboard"
           },
           {
             label: "Voice",
             value: "Voice",
-            emoji: "🎤",
+            emoji: "📑",
             description: "Commands for Voice Channels Management"
           },
           {
             label: "Fun",
             value: "Fun",
-            emoji: "🕹️",
+            emoji: "📑",
             description: "Commands for Fun (Image) uses"
           },
           {
@@ -224,19 +224,19 @@ module.exports = {
           {
             label: "Anime-Emotions",
             value: "Anime-Emotions",
-            emoji: "😳",
+            emoji: "📑",
             description: "Commands to show your Emotions with Anime style"
           },
           {
             label: "Nsfw",
             value: "Nsfw",
-            emoji: "🔞",
+            emoji: "📑",
             description: "Commands for Nsfw (underage) Content."
           },
           {
             label: "Customcommand",
             value: "Customcommand",
-            emoji: "🦾",
+            emoji: "📑",
             description: "Custom Commands of this Server"
           },
         ];
